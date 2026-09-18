@@ -42,7 +42,7 @@ One-time setup from this folder:
 ```bash
 gh repo create mihnin/stellara-gemini-extension --public --description "Stellara Swiss Ephemeris astrology tools for Gemini CLI (MCP)" --clone
 cp gemini-extension.json GEMINI.md README.md stellara-gemini-extension/
-cd stellara-gemini-extension && git add . && git commit -m "stellara 0.2.0" && git push
+cd stellara-gemini-extension && git add . && git commit -m "stellara 0.2.2" && git push
 gh repo edit mihnin/stellara-gemini-extension --add-topic gemini-cli-extension --add-topic mcp --add-topic astrology
 # local test before pushing:
 gemini extensions link .
