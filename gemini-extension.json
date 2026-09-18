@@ -1,6 +1,6 @@
 {
   "name": "stellara",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "description": "Deterministic Swiss Ephemeris astrology: natal charts, transits, synastry and birth-place resolution as exact JSON (Stellara API) — no hallucinated house cusps.",
   "mcpServers": {
     "stellara": {
